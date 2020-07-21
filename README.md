@@ -4,17 +4,25 @@
 ```
 // 安装
 yarn install
+
+// 或者
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
 // 运行
 yarn serve
+// 或者
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
 yarn build
+
+// 或者
+npm run build
 ```
 
 ### Customize configuration
