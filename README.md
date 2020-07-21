@@ -113,3 +113,16 @@ iOS和android平台的依赖的东西
 微信组件
 
 
+## 如何以微信小程序打开
+
+```
+npm run dev:mp-weixin
+
+// Compiled successfully
+
+// DONE  Build complete. The dist/dev/mp-weixin directory is ready. Watching for changes...
+
+导入uniapp下的dist/dev/mp-weixin即可
+
+```
+
